@@ -1,0 +1,6 @@
+{
+  "name": "台鐵即時動態與地圖查詢",
+  "description": "根據台鐵網站(TRC)開發，串接TDX運輸開放資料，提供全台各站車次時刻表、即時準點/誤點資訊、互動式鐵路地圖與AI智能鐵路聊天室機器人。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
